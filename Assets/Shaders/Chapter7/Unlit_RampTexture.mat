@@ -21,13 +21,13 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _RampTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 6e7b096b1db594c26985056637771fef, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Gloss: 20
+    - _Gloss: 124
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
     - _Specular: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
